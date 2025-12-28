@@ -38,7 +38,7 @@ const ServicesPage: React.FC = () => {
                 title="Our RTO Services | Driving License, Registration & More"
                 description="Comprehensive list of RTO services in Vadodara including Learner License, Permanent License, Renewal, HP Cancellation, and Vehicle Transfer."
                 keywords="Driving License Renewal, Vehicle Registration Vadodara, HP Cancellation, RTO Exam Appointment"
-                url="https://yourwebsite.com/services"
+                url="https://rto-service.netlify.app/services"
             />
             {/* Page Header */}
             <div className="container mb-16 text-center">

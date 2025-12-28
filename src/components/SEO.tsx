@@ -14,7 +14,7 @@ const SEO: React.FC<SEOProps> = ({
     description,
     keywords = "RTO Services, Driving License, Vehicle Registration, RTO Consultant, Vadodara RTO, Gujarat RTO",
     image = "/ABOUT-IMAGE.png",
-    url = "https://rtoservices.com"
+    url = "https://rto-service.netlify.app/"
 }) => {
     const siteTitle = "MOIZ RTO Services";
     const fullTitle = `${title} | ${siteTitle}`;

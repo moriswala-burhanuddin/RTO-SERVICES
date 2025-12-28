@@ -19,7 +19,7 @@ const ContactPage: React.FC = () => {
             <SEO
                 title="Contact Us | RTO Office Vadodara Assistance"
                 description="Get in touch with Moiz RTO Services. Call +91 9925-535-252 for instant assistance with your RTO work."
-                url="https://yourwebsite.com/contact"
+                url="https://rto-service.netlify.app/contact"
             />
             <div className="container">
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20">

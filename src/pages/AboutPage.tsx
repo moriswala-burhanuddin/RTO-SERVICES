@@ -19,7 +19,7 @@ const AboutPage: React.FC = () => {
             <SEO
                 title="About Us | Trusted RTO Consultants"
                 description="Moiz RTO Services has been serving Vadodara for years with trusted, efficient, and transparent RTO solutions."
-                url="https://yourwebsite.com/about"
+                url="https://rto-service.netlify.app/about"
             />
             <div className="container">
                 {/* Hero Section of About */}

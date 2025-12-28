@@ -19,6 +19,7 @@ const Home: React.FC = () => {
                 title="Best RTO Services in Vadodara"
                 description="Prompt & Reliable RTO Services in Vadodara. We handle Driving License, Vehicle Registration, Ownership Transfer, and more with 100% guarantee."
                 keywords="RTO Consultant Vadodara, Driving License Agent, Vehicle Transfer, RTO Services"
+                url="https://rto-service.netlify.app/"
             />
             <Hero />
             <Services />
