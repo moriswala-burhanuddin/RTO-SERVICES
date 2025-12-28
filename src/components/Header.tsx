@@ -102,7 +102,7 @@ const Header: React.FC = () => {
                         animate={{ opacity: 1, scale: 1 }}
                         exit={{ opacity: 0, scale: 0.95 }}
                         transition={{ duration: 0.2 }}
-                        className="fixed inset-0 z-40 bg-[var(--bg-primary)]/95 backdrop-blur-xl flex flex-col pt-24 px-6 md:hidden"
+                        className="fixed inset-0 z-40 bg-[var(--bg-primary)] flex flex-col pt-24 px-6 md:hidden"
                     >
                         {/* Close Button (Absolute positioned to match header layout) */}
                         <button
@@ -117,7 +117,7 @@ const Header: React.FC = () => {
                                 <Link
                                     key={i}
                                     to={link.path}
-                                    className={`text-2xl font-semibold transition-colors tracking-tight ${isActive(link.path) ? 'text-primary' : 'text-[var(--text-main)] hover:text-primary'}`}
+                                    className={`text-lg font-medium transition-colors tracking-tight ${isActive(link.path) ? 'text-primary' : 'text-[var(--text-main)] hover:text-primary'}`}
                                     onClick={() => setIsOpen(false)}
                                 >
                                     <motion.span
