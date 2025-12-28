@@ -1,0 +1,77 @@
+{
+  "hero": {
+    "title": "RTO Services Vadodara",
+    "subtitle": "Simplifying your journey on the road.",
+    "cta": "Get Started"
+  },
+  "services": {
+    "title": "Our Services",
+    "dl_assistance": {
+      "title": "Driving License Assistance",
+      "desc": "Expert assistance in obtaining new driving licenses, renewing existing ones, and applying for international licenses."
+    },
+    "vehicle_reg": {
+      "title": "Vehicle Registration",
+      "desc": "We handle all aspects of vehicle registration and transfer processes, ensuring quick and reliable service."
+    },
+    "rto_paperwork": {
+      "title": "RTO Paperwork",
+      "desc": "Fast and efficient completion of all RTO-related paperwork to save you time and avoid delays."
+    },
+    "dl_appointment": {
+      "title": "Driving License Online Appointment",
+      "desc": "We assist in booking online appointments for driving license tests, renewals, and other services."
+    },
+    "computer_exam": {
+      "title": "Computer Exam Practice",
+      "desc": "Prepare for your RTO computer test with our practice sessions."
+    },
+    "vehicle_transfer": {
+      "title": "Vehicle Transfer Services",
+      "desc": "Expert assistance for transferring ownership of vehicles smoothly and legally."
+    },
+    "mobile_link": {
+      "title": "Mobile Link with Aadhaar Card",
+      "desc": "Link your mobile number with your Aadhaar card effortlessly."
+    },
+    "pan_passport": {
+      "title": "PAN Card & Passport Assistance",
+      "desc": "Assistance with PAN card applications and passport services."
+    },
+    "railway_ticket": {
+      "title": "Railway Ticket Booking",
+      "desc": "Book your railway tickets with ease through our service."
+    },
+    "insurance": {
+      "title": "Two-wheeler Insurance",
+      "desc": "Get your two-wheeler insured quickly."
+    },
+    "light_bill": {
+      "title": "Light Bill Payment",
+      "desc": "Accepted here."
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "content": "At RTO Services Vadodara, we are dedicated to simplifying the complexities of transportation-related processes for our clients. With years of experience, we provide quick, efficient, and reliable RTO services.",
+    "mission": "Our mission is to provide quick, efficient, and reliable RTO services, ensuring that you can focus on what matters most while we handle the details."
+  },
+  "why_choose_us": {
+    "title": "Why Choose Us?",
+    "expertise": "Expertise: Knowledgeable staff well-versed in RTO regulations.",
+    "customer_centric": "Customer-Centric Approach: We prioritize your needs.",
+    "comprehensive": "Comprehensive Services: Wide array of services for all RTO needs.",
+    "local_knowledge": "Local Knowledge: Understanding the local landscape in Vadodara."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "whatsapp": "Contact Us on WhatsApp",
+    "address_text": "154 Shriji Complex 1st Floor, ITI Building, Ajwa Road, Vadodara 360096"
+  },
+  "footer": {
+    "rights": "© 2024 RTO Services Vadodara. All Rights Reserved."
+  }
+}
